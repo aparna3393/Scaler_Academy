@@ -1,6 +1,0 @@
-class Solution:
-    # @param A : integer
-    # @param B : integer
-    # @return an integer
-    def power(self, A, B):
-        return A ** B
